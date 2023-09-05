@@ -1,0 +1,112 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    margin-left: 650px;
+    text-align: center;
+    border: solid 5px;
+    border-radius: 10px;
+    border-color: #0000ff;
+    margin-bottom: auto;
+    padding: 15px;
+    width: 25%;
+}
+span{
+    border: solid 5px;
+    border-radius: 10px;
+    border-color: rgb(254, 1, 1);
+}
+
+.divPirncipal{
+    margin: auto;
+    margin-top: 20px;
+    
+    width: 99%;
+    height: 700px;
+    display: flex;
+}
+.divDos{
+    margin: 5px;
+    
+    width: 50%;
+    height: 680px;
+}
+.imgHasbu{
+    margin: auto;
+    width: 710px;
+    height: 300px;
+    padding: 10px;
+}
+
+.imgHasbu2{
+    margin: auto;
+    width: 610px;
+    height: 300px;
+    padding: 10px;
+}
+
+.imgCR7{
+    margin: auto;
+    width: 710px;
+    height: 100px;
+    padding: 10px;
+}
+
+.imgCR7_2{
+    margin: auto;
+    width: 210px;
+    height: 300px;
+    padding: 10px;
+}
+
+.letras{
+    color: red;
+    
+}
+
+.divPat{
+    border: 5px solid;
+    border-color: #0000ff;
+    margin: 50px;
+    margin-left: 30%;
+    width: 40%;
+    padding: 5px;
+}
+
+.divIMAG{
+    margin: auto;
+    border: solid;
+    width: 90%;
+    height: 450px;
+    border: 8px dotted rgb(42, 39, 219);
+    display: flex;
+}
+.imagenes{
+    margin: auto;
+    
+    height: 90%;
+    width: 350px;
+}
+
+.carta{
+    margin: auto;
+    margin-top: 10px;
+    
+    height: 80%;
+    width: 250px;
+}
+
+.nombre{
+    margin: auto;
+    margin-top: 10px;
+    border: solid;
+    height: 40px;
+    width: 90%;
+
+}
+p{
+    text-align: center;
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
